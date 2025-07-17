@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![My Skills](https://skillicons.dev/icons?i=discord,github,gmail,html,linkedin,py,,visualstudio,vscode,,windows=31)](https://skillicons.dev)
 
 <!--
 **Davipereiraaz/Davipereiraaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
